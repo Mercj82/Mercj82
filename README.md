@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics and statistics.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on team projects to improve my skills.
-- 📫 How to reach me by email (Mercedes.Joseph27@gmail.com)
+- 📫 How to reach me by email (mercedes.m.dumas@gmail.com)
 
 <!---
 Mercj82/Mercj82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
